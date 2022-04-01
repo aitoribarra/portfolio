@@ -7,6 +7,11 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+@media (max-width: 750px) {
+#contacto{
+    background-image: url(../images/fondo-proyectos.png);
+    }
+}
 nav .nav-link{
     color: #282828;
 }
