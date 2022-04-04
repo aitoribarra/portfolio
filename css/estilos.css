@@ -7,11 +7,6 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-@media (max-width: 750px) {
-#contacto{
-    background-image: url(../images/fondo-proyectos.png);
-    }
-}
 nav .nav-link{
     color: #282828;
 }
@@ -68,7 +63,10 @@ input{
 #proyectos footer, #proyectos footer a{
     color: #E20000;
 }
-#proyecto .fa-brands:hover{
+#proyectos footer a:hover{
+    color: #0d6efd;
+}
+#proyectos .a-brand:hover{
     color: red;
 }
 #inicio{
@@ -150,3 +148,8 @@ footer, footer a{
     font-size: 34px;
     color: white;
 }
+@media (max-width: 750px) {
+    #inicio, #contacto{
+        background-image: url(../images/fondo-proyectos.png);
+        }    
+    }
