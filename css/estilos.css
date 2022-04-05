@@ -136,6 +136,9 @@ footer, footer a{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.imagen-portfolio{
+    height:300px;
+}
 .whatsapp{
     position: fixed;
     right: 70px;
