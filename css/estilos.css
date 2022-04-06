@@ -155,4 +155,8 @@ footer, footer a{
     #inicio, #contacto{
         background-image: url(../images/fondo-proyectos.png);
         }    
+    #inicio .input-home p {
+            color: #E20000;
+            border: 1px solid #E20000;
+        }
     }
