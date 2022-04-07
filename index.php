@@ -17,8 +17,7 @@
     <header class="container">
         <nav class="navbar navbar-expand-md mb-4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa-solid fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -47,7 +46,7 @@
         <div class="row">
             <div class="col-12 mt-4 text-center div-cohete">
                 <a href="proyectos.php">
-                <img src="images/cohete.svg" class="cohete">
+                    <img src="images/cohete.svg" class="cohete">
                 </a>
             </div>
         </div>
@@ -72,9 +71,9 @@
                 <a href="https://linkedin.com" target="blank">
                     <i class="fa-brands fa-linkedin-in"></i></a>
             </div>
-            <div class="col-3">Sponsor <a href="https://depcsuite.com/?v=d72a48a8ebd2" target="blank">DePC Suite</a>
+            <div class="col-md-3">Sponsor <a href="https://depcsuite.com/?v=d72a48a8ebd2" target="blank">DePC Suite</a>
             </div>
-            <div class="col-3"><a href="mailto:aitor.ibarra31@gmail.com">aitor.ibarra31@gmail.com</a></div>
+            <div class="col-md-3"><a href="mailto:aitor.ibarra31@gmail.com">aitor.ibarra31@gmail.com</a></div>
 
         </div>
 
