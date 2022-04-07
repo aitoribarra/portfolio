@@ -159,4 +159,8 @@ footer, footer a{
             color: #E20000;
             border: 1px solid #E20000;
         }
+    #inicio footer, footer a {
+            color:#E20000
+            font-weight: 100;
+        }
 }
