@@ -86,9 +86,9 @@
                 <a href="https://linkedin.com" target="blank">
                 <i class="fa-brands fa-linkedin-in"></i></a>
             </div>
-            <div class="col-3">Sponsor <a href="https://depcsuite.com/?v=d72a48a8ebd2" target="blank">DePC Suite</a>
+            <div class="col-md-3">Sponsor <a href="https://depcsuite.com/?v=d72a48a8ebd2" target="blank">DePC Suite</a>
             </div>
-            <div class="col-3"><a href="mailto:aitor.ibarra31@gmail.com">aitor.ibarra31@gmail.com</a></div>
+            <div class="col-md-3"><a href="mailto:aitor.ibarra31@gmail.com">aitor.ibarra31@gmail.com</a></div>
 
         </div>
 
