@@ -21,7 +21,7 @@
                     <i class="fa-solid fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                    <ul class="navbar-nav me-auto mb-2 mb-md-0 mt-2">
                         <li class="nav-item">
                             <a class="nav-link px-4 py-1 active" aria-current="page" href="index.php">Inicio</a>
                         </li>

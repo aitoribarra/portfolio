@@ -55,19 +55,10 @@ input{
     background-color: #37096d;
     color: white;
 }
-#proyectos{
-    background-image: url(../images/fondo-proyectos.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
-#proyectos footer, #proyectos footer a{
-    color: #E20000;
-}
-#proyectos footer a:hover{
-    color: #0d6efd;
-}
-#proyectos .a-brand:hover{
-    color: red;
+.btn btn-blanco{
+    background-color: white;
+    color: #37096d;
+    border-radius: 15px;
 }
 #inicio{
     background-image: url(../images/fondo-contacto.png);
@@ -95,10 +86,19 @@ input{
 #inicio .btn-blanco{
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
 }
-.btn btn-blanco{
-    background-color: white;
-    color: #37096d;
-    border-radius: 15px;
+#proyectos{
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#proyectos footer, #proyectos footer a{
+    color: #E20000;
+}
+#proyectos footer a:hover{
+    color: #0d6efd;
+}
+#proyectos .a-brand:hover{
+    color: red;
 }
 .proyecto{
     border: 1px solid #dfdfdf;
