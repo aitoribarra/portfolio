@@ -52,7 +52,7 @@
         <div class="row">
             <div class="col-sm-6 col-12 mt-4">
                 <p class="pb-5">Apasionado por la tecnología y gestión de proyectos. Actualmente estoy cursando Desarrollo Web Full Stack en DePc Suite.</p>
-                <a href="contacto.html" target="blank" class="btn btn-rojo">Enviar mensaje</a>
+                <a href="contacto.php" target="blank" class="btn btn-rojo">Enviar mensaje</a>
             </div>
             <div class="col-sm-3 col-12 mt-4 offset-sm-2">
                 <img src="images/aitor ibarra-12.jpg" alt="Aitor Ibarra" title="Aitor Ibarra" class="imagen-portfolio">
