@@ -45,7 +45,7 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-12 pt-3 pb-5">
+            <div class="col-12 pt-3 pb-4">
                 <h1>Sobre Mí</h1>
             </div>
         </div>
