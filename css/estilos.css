@@ -96,13 +96,10 @@ input{
     color: #0d6efd;
 }
 #proyectos .a-brand:hover{
-    color: red;
+    color: #E20000;
 }
 #sobre-mi footer, #sobre-mi footer a{
     color: #E20000;
-}
-#sobre-mi footer a:hover{
-    color: #0d6efd;
 }
 #sobre-mi{
     background-image: url(../images/fondo-proyectos.png);
