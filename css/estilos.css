@@ -2,11 +2,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-#contacto{
-    background-image: url(../images/fondo-contacto.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
 nav .nav-link{
     color: #282828;
 }
@@ -86,6 +81,9 @@ input{
 #inicio .btn-blanco{
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
 }
+#inicio footer a:hover{
+    color: #0d6efd;
+}
 #proyectos{
     background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
@@ -99,6 +97,25 @@ input{
 }
 #proyectos .a-brand:hover{
     color: red;
+}
+#sobre-mi footer, #sobre-mi footer a{
+    color: #E20000;
+}
+#sobre-mi footer a:hover{
+    color: #0d6efd;
+}
+#sobre-mi{
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#contacto{
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#contacto .fa-brands:hover{
+    color: white;
 }
 .proyecto{
     border: 1px solid #dfdfdf;
@@ -127,14 +144,6 @@ footer, footer a{
 }
 .fa-brands{
     font-size: 28px;
-}
-#contacto .fa-brands:hover{
-    color: white;
-}
-#sobre-mi{
-    background-image: url(../images/fondo-proyectos.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
 }
 .imagen-portfolio{
     height:300px;
