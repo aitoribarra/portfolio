@@ -63,7 +63,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h2>Stack Tenconológico</h2>
+                            <h2>Stack Tencnológico</h2>
                         </div>
                     </div>
                 </div>
