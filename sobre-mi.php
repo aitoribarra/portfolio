@@ -17,8 +17,7 @@
     <header class="container">
         <nav class="navbar navbar-expand-md mb-4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa-solid fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -43,22 +42,23 @@
             </div>
         </nav>
     </header>
-    <main class="container">
-        <div class="row">
-            <div class="col-12 pt-3 pb-4">
-                <h1>Sobre Mí</h1>
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 pt-3 pb-4">
+                    <h1>Sobre Mí</h1>
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 col-12 mt-4">
-                <p class="pb-5">Apasionado por la tecnología y gestión de proyectos. Actualmente estoy cursando Desarrollo Web Full Stack en DePc Suite.</p>
-                <a href="contacto.php" target="blank" class="btn btn-rojo">Enviar mensaje</a>
+            <div class="row">
+                <div class="col-sm-6 col-12 mt-4">
+                    <p class="pb-5">Apasionado por la tecnología y gestión de proyectos. Actualmente estoy cursando Desarrollo Web Full Stack en DePc Suite.</p>
+                    <a href="contacto.php" target="blank" class="btn btn-rojo">Enviar mensaje</a>
+                </div>
+                <div class="col-sm-3 col-12 mt-4 offset-sm-2">
+                    <img src="images/aitor ibarra-12.jpg" alt="Aitor Ibarra" title="Aitor Ibarra" class="imagen-portfolio">
+                </div>
             </div>
-            <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                <img src="images/aitor ibarra-12.jpg" alt="Aitor Ibarra" title="Aitor Ibarra" class="imagen-portfolio">
-            </div>
-        </div>
-            <section id="tecnologias" class="gradiente">
+            <section class="gradiente">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -66,6 +66,7 @@
                         </div>
                     </div>
                 </div>
+        </div>
             </section>
     </main>
     <footer class="container">
