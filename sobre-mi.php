@@ -66,6 +66,82 @@
                         <h2 class="my-sm-5 text-tecno">Stack Tencnológico</h2>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>Javascript</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/javascript.jpeg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>PHP</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/hwUcGZ41_400x400.jpeg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>HTML5</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/kEpgHiC9.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>React.js</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/OYIaJ1KK.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>JQuery</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/lxEKmMnB_400x400.jpeg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>Bootstrap</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/C9QJ7V3X.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-sm-4 mt-0">
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>Laravel</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/220px-Laravel.svg_.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>MySQL</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/mariadb-logo-400x400.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>CSS</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/css.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>Git</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/git.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>Apache</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/Apache_Software_Foundation_Logo_(2016).svg.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3>Mercadopago</h3>
+                            <img class="img-fluid d-block mx-auto" width="60" src="images/gUjuxmmd_400x400.jpeg" alt="">
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
     </main>
