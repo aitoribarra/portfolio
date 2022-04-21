@@ -63,7 +63,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="my-sm-5 text-white">Stack Tencnológico</h2>
+                        <h2 class="my-sm-5 text-tecno">Stack Tencnológico</h2>
                     </div>
                 </div>
             </div>
