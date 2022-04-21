@@ -58,16 +58,16 @@
                     <img src="images/aitor ibarra-12.jpg" alt="Aitor Ibarra" title="Aitor Ibarra" class="imagen-portfolio">
                 </div>
             </div>
-            <section class="gradiente">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <h2 class="my-sm-5 text-white">Stack Tencnológico</h2>
-                        </div>
+        </div>
+        <section class="gradiente">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="my-sm-5 text-white">Stack Tencnológico</h2>
                     </div>
                 </div>
-        </div>
-            </section>
+            </div>
+        </section>
     </main>
     <footer class="container">
         <div class="row mt-5 pb-4">
