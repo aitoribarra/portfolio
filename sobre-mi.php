@@ -59,8 +59,8 @@
                 </div>
             </div>
         </div>
-        <section class="gradiente">
-            <div class="container">
+        <section id="tecnologias" class="gradiente">
+            <div class="container"> 
                 <div class="row">
                     <div class="col-12">
                         <h2 class="my-sm-5 text-tecno">Stack Tencnológico</h2>
