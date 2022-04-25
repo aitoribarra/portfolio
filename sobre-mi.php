@@ -59,7 +59,7 @@
                 </div>
             </div>
         </div>
-        <section id="tecnologias" class="gradiente">
+        <section id="tecnologias" class="gradiente pb-5">
             <div class="container"> 
                 <div class="row">
                     <div class="col-12">
@@ -108,7 +108,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Laravel</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="images/220px-Laravel.svg_.png" alt="">
+                            <img class="img-fluid d-block mx-auto" width="85" src="images/220px-Laravel.svg_.png" alt="">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -132,7 +132,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="60" src="images/Apache_Software_Foundation_Logo_(2016).svg.png" alt="">
+                            <img class="img-fluid d-block mx-auto" width="123" src="images/Apache_Software_Foundation_Logo_(2016).svg.png" alt="">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
