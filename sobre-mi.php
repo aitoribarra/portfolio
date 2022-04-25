@@ -157,7 +157,12 @@
                         <img src="images/logo crea tu idea.svg" class="img-fluid baw" title="depcsuite">
                     </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3></h3>
+                            <h3>Director-Founder</h3>
+                            <h4>Crea Tu Idea</h4>
+                            <h5>2018 - Presente</h5>
+                            <p>
+                                Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: diseño gráfico, marketing digital y desarrollo ecommerce.
+                            </p>
                         </div>
                  </div>   
                 </div>

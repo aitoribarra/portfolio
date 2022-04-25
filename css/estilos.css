@@ -117,6 +117,17 @@ input{
 #experiencia h2{
     font-size: 24px;
 }
+#experiencia h3{
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;  
+}
+#experiencia h4{
+    font-size: 19px;
+}
+#experiencia h5{
+    font-size: 14px;
+}
 #contacto{
     background-image: url(../images/fondo-contacto.png);
     background-repeat: no-repeat;
