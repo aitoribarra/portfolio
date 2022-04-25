@@ -146,8 +146,20 @@
         </section>
         <section id="experiencia" class="container">
             <div class="row">
-                <div class="col-12 my-sm-5">
+                <div class="col-12 pt-5 pb-4">
                     <h2><i class="fas fa-briefcase"></i> Experiencia laboral</h2>
+                </div>
+            </div>
+            <div class="row row shadow bg-white rounded">
+                <div class="col-12">
+                 <div class="row">
+                    <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <img src="images/logo crea tu idea.svg" class="img-fluid baw" title="depcsuite">
+                    </div>
+                        <div class="col-12 col-sm-10 p-3">
+                            <h3></h3>
+                        </div>
+                 </div>   
                 </div>
             </div>
         </section>
