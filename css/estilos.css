@@ -111,6 +111,12 @@ input{
     color: #282828;
     font-weight: 300;
 }
+#experiencia h2{
+    color: #37096d;
+}
+#experiencia h2{
+    font-size: 24px;
+}
 #contacto{
     background-image: url(../images/fondo-contacto.png);
     background-repeat: no-repeat;
@@ -147,6 +153,10 @@ background: linear-gradient(90deg, rgba(217,18,18,1) 39%, rgba(252,113,69,1) 100
 .text-tecno{
     font-size: 24px !important;
     color: white;
+}
+.text-exp{
+    font-size: 24px !important;
+    color: #370A6D;
 }
 footer, footer a{
     color: white;

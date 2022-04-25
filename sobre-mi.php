@@ -144,6 +144,13 @@
                 </div>
             </div>
         </section>
+        <section id="experiencia" class="container">
+            <div class="row">
+                <div class="col-12 my-sm-5">
+                    <h2><i class="fas fa-briefcase"></i> Experiencia laboral</h2>
+                </div>
+            </div>
+        </section>
     </main>
     <footer class="container">
         <div class="row mt-5 pb-4">
