@@ -60,7 +60,7 @@
             </div>
         </div>
         <section id="tecnologias" class="gradiente pb-5">
-            <div class="container"> 
+            <div class="container">
                 <div class="row">
                     <div class="col-12">
                         <h2 class="my-sm-5 text-tecno">Stack Tencnológico</h2>
@@ -150,12 +150,12 @@
                     <h2><i class="fas fa-briefcase"></i> Experiencia laboral</h2>
                 </div>
             </div>
-            <div class="row row shadow bg-white rounded">
+            <div class="row shadow bg-white rounded">
                 <div class="col-12">
-                 <div class="row">
-                    <div class="col-2 p-5 my-auto d-none d-sm-block">
-                        <img src="images/logo crea tu idea.svg" class="img-fluid baw" title="depcsuite">
-                    </div>
+                    <div class="row">
+                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                            <img src="images/logo crea tu idea.svg" class="img-fluid baw" title="depcsuite">
+                        </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Director-Founder</h3>
                             <h4>Crea Tu Idea</h4>
@@ -165,8 +165,8 @@
                             </p>
                         </div>
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                        <img src="images/logo taller grafiko.svg" class="img-fluid baw" title="depcsuite">
-                    </div>
+                            <img src="images/logo taller grafiko.svg" class="img-fluid baw" title="depcsuite">
+                        </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Diseñador Grafico</h3>
                             <h4>Tallergrafiko</h4>
@@ -176,37 +176,69 @@
                             </p>
                         </div>
 
-                 </div>   
+                    </div>
                 </div>
             </div>
         </section>
-        <section id="formacion" class="container">
+        </section>
+        <section id="formacion" class="container mb-5">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
                     <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
                 </div>
             </div>
-            <div class="row row shadow bg-white rounded">
+            <div class="row shadow bg-white rounded p-1">
                 <div class="col-12 col-sm-6">
-                 <div class="row">
-                    <div class="col-2 p-5 my-auto d-none d-sm-block">
-                        <img src="images/logo crea tu idea.svg" class="img-fluid baw" title="depcsuite">
-                    </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Director-Founder</h3>
-                            <h4>Crea Tu Idea</h4>
-                            <h5>2018 - Presente</h5>
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/utn.jpg" class="img-fluid baw" title="depcsuite">
                         </div>
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                        <img src="images/logo taller grafiko.svg" class="img-fluid baw" title="depcsuite">
-                    </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Diseñador Grafico</h3>
-                            <h4>Tallergrafiko</h4>
-                            <h5>2013 - 2017</h5>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Diseño UX / UI</h3>
+                            <h4>CODERHOUSE</h4>
+                            <h5>Expedición: abr 2020</h5>
+                            <p></p>
                         </div>
-                        
-                 </div>   
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Wordpress Avanzado</h3>
+                            <h4>Coderhouse</h4>
+                            <h5>Expedición: may 2019</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/fundacion-impulsar.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Wordpress</h3>
+                            <h4>Luzzi Digital</h4>
+                            <h5>Expedición: may 2018</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3></h3>
+                            <h4>Luzzi Digital</h4>
+                            <h5>Expedición: dic 2019</h5>
+                            <p></p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
