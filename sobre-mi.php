@@ -164,6 +164,54 @@
                                 Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: diseño gráfico, marketing digital y desarrollo ecommerce.
                             </p>
                         </div>
+                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <img src="images/logo taller grafiko.svg" class="img-fluid baw" title="depcsuite">
+                    </div>
+                        <div class="col-12 col-sm-10 p-3">
+                            <h3>Diseñador Grafico</h3>
+                            <h4>Tallergrafiko</h4>
+                            <h5>2013 - 2017</h5>
+                            <p>
+                                Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: diseño gráfico, marketing digital y desarrollo ecommerce.
+                            </p>
+                        </div>
+
+                 </div>   
+                </div>
+            </div>
+        </section>
+        <section id="formacion" class="container">
+            <div class="row">
+                <div class="col-12 pt-5 pb-4">
+                    <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
+                </div>
+            </div>
+            <div class="row row shadow bg-white rounded">
+                <div class="col-12">
+                 <div class="row">
+                    <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <img src="images/logo crea tu idea.svg" class="img-fluid baw" title="depcsuite">
+                    </div>
+                        <div class="col-12 col-sm-10 p-3">
+                            <h3>Director-Founder</h3>
+                            <h4>Crea Tu Idea</h4>
+                            <h5>2018 - Presente</h5>
+                            <p>
+                                Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: diseño gráfico, marketing digital y desarrollo ecommerce.
+                            </p>
+                        </div>
+                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <img src="images/logo taller grafiko.svg" class="img-fluid baw" title="depcsuite">
+                    </div>
+                        <div class="col-12 col-sm-10 p-3">
+                            <h3>Diseñador Grafico</h3>
+                            <h4>Tallergrafiko</h4>
+                            <h5>2013 - 2017</h5>
+                            <p>
+                                Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: diseño gráfico, marketing digital y desarrollo ecommerce.
+                            </p>
+                        </div>
+                        
                  </div>   
                 </div>
             </div>
